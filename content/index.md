@@ -1,17 +1,18 @@
 ---
-{"publish":true,"created":"2025-12-17T20:55:15+08:00","modified":"2025-12-17T23:32:12+08:00","cssclasses":""}
+ctime: 2025-12-17T20:55:15+08:00
+mtime: 2025-12-17T23:32:12+08:00
+title: index
 ---
-
 
 # README
 
-![](docs/image-file/obsidian-vault-galleries-graph-view-image.png)
+![](/docs/image-file/obsidian-vault-galleries-graph-view-image.png)
 
 > [!Note]
-> 1. [[index#Web Clipper]]
-> 2. [[index#Folder Struct]]
-> 3. [[index#Views of gallery-base.base]]
-> 4. [[index#Script]]
+> 1. [[#Web Clipper]]
+> 2. [[#Folder Struct]]
+> 3. [[#Views of gallery-base.base]]
+> 4. [[#Script]]
 
 ## Web Clipper
 
@@ -24,101 +25,101 @@
 
 | Folder Path | DFC |
 | :--- | ---: |
-| [[docs/docs]] | 40 |
-| [[docs/docs]]/[[docs/base-file]] | 3 |
-| [[docs/docs]]/[[docs/canvas]] | 1 |
-| [[docs/docs]]/[[docs/collection]] | 2 |
-| [[docs/docs]]/[[docs/galleries]] | 2 |
-| [[docs/docs]]/[[docs/image-file]] | 1 |
-| [[docs/docs]]/[[docs/notation]] | 1 |
-| [[docs/docs]]/[[docs/property]] | 4 |
-| [[docs/docs]]/[[docs/tag]] | 14 |
-| [[docs/galleries]] | 1364 |
-| [[docs/galleries]]/[[docs/galleries/exhentai]] | 558 |
-| [[docs/galleries]]/[[docs/galleries/nhentai]] | 806 |
-| [[docs/collection/notes]] | 7 |
-| [[docs/property]] | 32 |
-| [[docs/property]]/[[docs/property/basic-property]] | 8 |
-| [[docs/property]]/[[docs/property/docs-property]] | 1 |
-| [[docs/property]]/[[docs/property/gallery-property]] | 22 |
-| [[docs/property]]/[[docs/property/notes-property]] | 1 |
-| [[docs/tag]] | 1591 |
-| [[docs/tag]]/[[docs/tag/artist]] | 532 |
-| [[docs/tag]]/[[docs/tag/categories]] | 10 |
-| [[docs/tag]]/[[docs/tag/character]] | 268 |
-| [[docs/tag]]/[[docs/tag/cosplayer]] | 1 |
-| [[docs/tag]]/[[docs/tag/female]] | 199 |
-| [[docs/tag]]/[[docs/tag/group-ns]] | 245 |
-| [[docs/tag]]/[[docs/tag/language]] | 9 |
-| [[docs/tag]]/[[docs/tag/location]] | 4 |
-| [[docs/tag]]/[[docs/tag/male]] | 104 |
-| [[docs/tag]]/[[docs/tag/mixed]] | 7 |
-| [[docs/tag]]/[[docs/tag/other]] | 107 |
-| [[docs/tag]]/[[docs/tag/parody]] | 104 |
-| [[docs/tag]]/[[docs/tag/temp]] | 1 |
-| [[docs/templates]] | 2 |
-| [[docs/uploader]] | 158 |
+| [[docs]] | 40 |
+| [[docs]]/[[base-file]] | 3 |
+| [[docs]]/[[canvas]] | 1 |
+| [[docs]]/[[collection]] | 2 |
+| [[docs]]/[[galleries]] | 2 |
+| [[docs]]/[[image-file]] | 1 |
+| [[docs]]/[[notation]] | 1 |
+| [[docs]]/[[property]] | 4 |
+| [[docs]]/[[tag]] | 14 |
+| [[galleries]] | 1364 |
+| [[galleries]]/[[exhentai]] | 558 |
+| [[galleries]]/[[nhentai]] | 806 |
+| [[notes]] | 7 |
+| [[property]] | 32 |
+| [[property]]/[[basic-property]] | 8 |
+| [[property]]/[[docs-property]] | 1 |
+| [[property]]/[[gallery-property]] | 22 |
+| [[property]]/[[notes-property]] | 1 |
+| [[tag]] | 1591 |
+| [[tag]]/[[artist]] | 532 |
+| [[tag]]/[[categories]] | 10 |
+| [[tag]]/[[character]] | 268 |
+| [[tag]]/[[cosplayer]] | 1 |
+| [[tag]]/[[female]] | 199 |
+| [[tag]]/[[group-ns]] | 245 |
+| [[tag]]/[[language]] | 9 |
+| [[tag]]/[[location]] | 4 |
+| [[tag]]/[[male]] | 104 |
+| [[tag]]/[[mixed]] | 7 |
+| [[tag]]/[[other]] | 107 |
+| [[tag]]/[[parody]] | 104 |
+| [[tag]]/[[temp]] | 1 |
+| [[templates]] | 2 |
+| [[uploader]] | 158 |
 
 ## Views of [[gallery-base.base]]
 
 > [!Note]
 > 
-> 1. [[index#gallery-base.base artist artist\|artist]]
-> 2. [[index#gallery-base.base categories categories\|categories]]
-> 3. [[index#gallery-base.base parody parody\|parody]]
-> 4. [[index#female\|female]]
-> 5. [[index#male\|male]]
-> 6. [[index#mixed\|mixed]]
-> 7. [[index#character\|character]]
+> 1. [[#gallery-base.base artist artist|artist]]
+> 2. [[#gallery-base.base categories categories|categories]]
+> 3. [[#gallery-base.base parody parody|parody]]
+> 4. [[#female|female]]
+> 5. [[#male|male]]
+> 6. [[#mixed|mixed]]
+> 7. [[#character|character]]
 
 ### [[gallery-base.base#artist|artist]]
 
-1. [[gallery-base.base#artist/kiira|kiira]] | 5 | [[tag/artist/kiira]]
-2. [[gallery-base.base#artist/henreader|henreader]] | 5 | [[tag/artist/henreader]]
-3. [[gallery-base.base#artist/utatane|utatane]] | 4 | [[tag/artist/utatane]]
-4. [[gallery-base.base#artist/wancho|wancho]] | 5 | [[tag/artist/wancho]]
-5. [[gallery-base.base#artist/custom-udon|custom-udon]] | 3 | [[tag/artist/custom-udon]]
-6. [[gallery-base.base#artist/komugi|komugi]] | 3 | [[tag/artist/komugi]]
-7. [[gallery-base.base#artist/hikami-izuto|hikami-izuto]] | 2 | [[tag/artist/hikami-izuto]]
-8. [[gallery-base.base#artist/murai-renji|murai-renji]] | 1 | [[tag/artist/murai-renji]]
-9. [[gallery-base.base#artist/yoyomax|yoyomax]] | 1 | [[tag/artist/yoyomax]]
-10. [[gallery-base.base#artist/kani-biimu|kani-biimu]] | 1 | [[tag/artist/kani-biimu]]
-11. [[gallery-base.base#artist/baku-p|baku-p]] | 1 | [[tag/artist/baku-p]]
+1. [[gallery-base.base#artist/kiira|kiira]] | 5 | [[kiira]]
+2. [[gallery-base.base#artist/henreader|henreader]] | 5 | [[henreader]]
+3. [[gallery-base.base#artist/utatane|utatane]] | 4 | [[utatane]]
+4. [[gallery-base.base#artist/wancho|wancho]] | 5 | [[wancho]]
+5. [[gallery-base.base#artist/custom-udon|custom-udon]] | 3 | [[custom-udon]]
+6. [[gallery-base.base#artist/komugi|komugi]] | 3 | [[komugi]]
+7. [[gallery-base.base#artist/hikami-izuto|hikami-izuto]] | 2 | [[hikami-izuto]]
+8. [[gallery-base.base#artist/murai-renji|murai-renji]] | 1 | [[murai-renji]]
+9. [[gallery-base.base#artist/yoyomax|yoyomax]] | 1 | [[yoyomax]]
+10. [[gallery-base.base#artist/kani-biimu|kani-biimu]] | 1 | [[kani-biimu]]
+11. [[gallery-base.base#artist/baku-p|baku-p]] | 1 | [[baku-p]]
 
 ### [[gallery-base.base#categories|categories]]
 
-1. [[gallery-base.base#categories/doujinshi|doujinshi]] | 464 | [[tag/categories/doujinshi]]
-2. [[gallery-base.base#categories/manga|manga]] | 112 | [[tag/categories/manga]]
-3. [[gallery-base.base#categories/image-set|image-set]] | 37 | [[tag/categories/image-set]]
-4. [[gallery-base.base#categories/misc|misc]] | 23 | [[tag/categories/misc]]
-5. [[gallery-base.base#categories/artist-cg|artist-cg]] | 33 | [[tag/categories/artist-cg]]
-6. [[gallery-base.base#categories/game-cg|game-cg]] | 8 | [[tag/categories/game-cg]]
-7. [[gallery-base.base#categories/non-h|non-h]] | 4 | [[tag/categories/non-h]]
-8. [[gallery-base.base#categories/western|western]] | 1 | [[tag/categories/western]]
+1. [[gallery-base.base#categories/doujinshi|doujinshi]] | 464 | [[doujinshi]]
+2. [[gallery-base.base#categories/manga|manga]] | 112 | [[manga]]
+3. [[gallery-base.base#categories/image-set|image-set]] | 37 | [[image-set]]
+4. [[gallery-base.base#categories/misc|misc]] | 23 | [[misc]]
+5. [[gallery-base.base#categories/artist-cg|artist-cg]] | 33 | [[artist-cg]]
+6. [[gallery-base.base#categories/game-cg|game-cg]] | 8 | [[game-cg]]
+7. [[gallery-base.base#categories/non-h|non-h]] | 4 | [[non-h]]
+8. [[gallery-base.base#categories/western|western]] | 1 | [[western]]
 
 ### [[gallery-base.base#parody|parody]]
 
-1. [[gallery-base.base#parody/original|original]] | 193 | [[tag/parody/original]]
-2. [[gallery-base.base#parody/blue-archive|blue-archive]] | 93 | [[tag/parody/blue-archive]]
-3. [[gallery-base.base#parody/touhou-project|touhou-project]] | 25 | [[tag/parody/touhou-project]]
-4. [[gallery-base.base#parody/mahoujin-guru-guru|mahoujin-guru-guru]] | 20 | [[tag/parody/mahoujin-guru-guru]]
+1. [[gallery-base.base#parody/original|original]] | 193 | [[original]]
+2. [[gallery-base.base#parody/blue-archive|blue-archive]] | 93 | [[blue-archive]]
+3. [[gallery-base.base#parody/touhou-project|touhou-project]] | 25 | [[touhou-project]]
+4. [[gallery-base.base#parody/mahoujin-guru-guru|mahoujin-guru-guru]] | 20 | [[mahoujin-guru-guru]]
 
 ### female
 
-1. [[gallery-base.base#female/lolicon|lolicon]] | 641 | [[tag/female/lolicon]]
-2. [[gallery-base.base#female/rape|rape]] | 106 | [[tag/female/rape]]
+1. [[gallery-base.base#female/lolicon|lolicon]] | 641 | [[lolicon]]
+2. [[gallery-base.base#female/rape|rape]] | 106 | [[rape]]
 
 ### male
 
-1. [[gallery-base.base#male/sole-male|sole-male]] | 290 | [[tag/male/sole-male]]
+1. [[gallery-base.base#male/sole-male|sole-male]] | 290 | [[sole-male]]
 
 ### mixed
 
-1. [[gallery-base.base#mixed/kodomo-doushi|kodomo-doushi]] | 27 | [[tag/mixed/kodomo-doushi]]
+1. [[gallery-base.base#mixed/kodomo-doushi|kodomo-doushi]] | 27 | [[kodomo-doushi]]
 
 ### character
 
-1. [[gallery-base.base#character/kukuri|kukuri]] | 19 | [[tag/character/kukuri]]
+1. [[gallery-base.base#character/kukuri|kukuri]] | 19 | [[kukuri]]
 
 ## Script
 

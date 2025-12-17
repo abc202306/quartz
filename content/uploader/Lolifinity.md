@@ -1,6 +1,7 @@
 ---
 ctime: 2025-12-14T22:52:21+08:00
 mtime: 2025-12-17T18:57:45+08:00
+title: Lolifinity
 ---
 
 # Lolifinity

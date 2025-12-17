@@ -1,6 +1,7 @@
 ---
 ctime: 2025-12-13T17:00:39+08:00
 mtime: 2025-12-16T20:54:59+08:00
+title: morinaka-kazaki
 ---
 
 # morinaka-kazaki

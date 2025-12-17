@@ -1,6 +1,7 @@
 ---
 ctime: 2025-12-16T21:19:38+08:00
 mtime: 2025-12-17T17:00:31+08:00
+title: kurumi-purarine
 ---
 
 # kurumi-purarine

@@ -1,6 +1,7 @@
 ---
 ctime: 2025-12-11T11:28:47+08:00
 mtime: 2025-12-17T16:59:30+08:00
+title: lolikko-daisuki-club
 ---
 
 # lolikko-daisuki-club

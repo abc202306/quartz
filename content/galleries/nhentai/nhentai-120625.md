@@ -29,6 +29,7 @@ mtime: 2025-12-05T15:26:52+08:00
 group:
 parody:
 character:
+title: nhentai-120625
 ---
 
 # `[前島龍] わたしのせんせい (COMIC LO 2014年5月号) [英訳]`

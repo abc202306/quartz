@@ -1,6 +1,7 @@
 ---
 ctime: 2025-12-11T11:28:38+08:00
 mtime: 2025-12-17T22:34:33+08:00
+title: usashiro-mani-or-mani
 ---
 
 # usashiro-mani-or-mani

@@ -1,6 +1,7 @@
 ---
 ctime: 2025-12-11T11:28:42+08:00
 mtime: 2025-12-16T20:55:19+08:00
+title: kannazuki-motofumi
 ---
 
 # kannazuki-motofumi

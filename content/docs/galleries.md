@@ -1,6 +1,7 @@
 ---
 ctime: 2025-12-15T21:10:33+08:00
 mtime: 2025-12-15T21:10:33+08:00
+title: galleries
 ---
 
 # galleries

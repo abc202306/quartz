@@ -1,6 +1,7 @@
 ---
 ctime: 2025-12-11T11:28:49+08:00
 mtime: 2025-12-17T22:34:27+08:00
+title: doujinshi
 ---
 
 # doujinshi

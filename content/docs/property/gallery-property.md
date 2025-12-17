@@ -1,6 +1,7 @@
 ---
 ctime: 2025-12-17T20:22:48+08:00
 mtime: 2025-12-17T20:22:48+08:00
+title: gallery-property
 ---
 
 # gallery-property

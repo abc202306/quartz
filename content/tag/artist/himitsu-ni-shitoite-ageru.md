@@ -1,6 +1,7 @@
 ---
 ctime: 2025-12-13T17:00:39+08:00
 mtime: 2025-12-16T20:55:20+08:00
+title: himitsu-ni-shitoite-ageru
 ---
 
 # himitsu-ni-shitoite-ageru

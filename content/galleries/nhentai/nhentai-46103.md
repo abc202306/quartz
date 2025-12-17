@@ -27,6 +27,7 @@ mtime: 2025-12-05T16:59:14+08:00
 group:
 parody:
 character:
+title: nhentai-46103
 ---
 
 # `Happy Birthday [English] [Rewrite] [olddog51]`

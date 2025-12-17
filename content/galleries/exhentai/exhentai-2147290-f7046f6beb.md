@@ -38,6 +38,7 @@ rating: 4.66
 uploaded: 2022-02-20T12:13:00Z
 ctime: 2025-12-05T19:28:44+08:00
 mtime: 2025-12-05T19:28:44+08:00
+title: exhentai-2147290-f7046f6beb
 ---
 
 # `[moyori] おさななじみるく (WEEKLY快楽天 2022 No.07) 韓国翻訳`

@@ -48,6 +48,7 @@ mtime: 2025-12-05T16:12:52+08:00
 group:
 parody:
 character:
+title: nhentai-504752
 ---
 
 # `[論倫理ろんり] ちいさなこの恋 [英訳] [DL版]`
