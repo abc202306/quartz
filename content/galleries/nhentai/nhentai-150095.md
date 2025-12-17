@@ -30,7 +30,6 @@ mtime: 2025-12-04T22:06:31+08:00
 group:
 parody:
 character:
-title: nhentai-150095
 ---
 
 # `[冬野みかん] 女子小学生がいる日々 (COMIC LO 2015年12月号) [英訳]`

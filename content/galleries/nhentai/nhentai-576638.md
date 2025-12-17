@@ -38,7 +38,6 @@ mtime: 2025-12-05T15:53:47+08:00
 group:
 parody:
 character:
-title: nhentai-576638
 ---
 
 # `[さつよ] まずはお友達から (COMIC LO 2018年11月号) [中国翻訳] [DL版]`

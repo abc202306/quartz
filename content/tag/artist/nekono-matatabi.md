@@ -1,7 +1,6 @@
 ---
 ctime: 2025-12-13T17:00:39+08:00
 mtime: 2025-12-17T17:02:00+08:00
-title: nekono-matatabi
 ---
 
 # nekono-matatabi

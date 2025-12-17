@@ -43,7 +43,6 @@ rating: 4.47
 uploaded: 2025-12-16T05:02:00Z
 ctime: 2025-12-16T19:28:01+08:00
 mtime: 2025-12-16T19:28:01+08:00
-title: exhentai-3687945-b28ce304af
 ---
 
 # `[PumpkinSpiceLatte (pumpkinspice)] メナージュ・ア・トロワ (アズールレーン) [中国翻訳] [DL版]`

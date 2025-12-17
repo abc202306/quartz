@@ -36,7 +36,6 @@ rating: 4.13
 uploaded: 2025-12-09T19:39:00Z
 ctime: 2025-12-13T16:44:37+08:00
 mtime: 2025-12-13T16:44:37+08:00
-title: exhentai-3677498-d93ebf485c
 ---
 
 # `[Fantia] 女児のおパンツ成分多めです (pu-en)`

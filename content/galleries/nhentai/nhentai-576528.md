@@ -38,7 +38,6 @@ mtime: 2025-12-05T17:02:25+08:00
 group:
 parody:
 character:
-title: nhentai-576528
 ---
 
 # `[アンソロジー] 催ぷにっ！ 6限目`

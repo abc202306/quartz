@@ -40,7 +40,6 @@ rating: 4.54
 uploaded: 2022-01-16T06:17:00Z
 ctime: 2025-12-05T19:20:17+08:00
 mtime: 2025-12-05T19:20:17+08:00
-title: exhentai-2114701-eec2ff568d
 ---
 
 # `yoyomax EP-1 Tomomi and doctor`

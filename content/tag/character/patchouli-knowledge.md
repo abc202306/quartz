@@ -1,7 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:36+08:00
 mtime: 2025-12-16T20:54:58+08:00
-title: patchouli-knowledge
 ---
 
 # patchouli-knowledge

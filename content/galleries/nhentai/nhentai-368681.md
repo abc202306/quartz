@@ -48,7 +48,6 @@ mtime: 2025-12-05T17:05:24+08:00
 group:
 parody:
 character:
-title: nhentai-368681
 ---
 
 # `[はやけ] 妹の裸を見て興奮するなんて変なお兄ちゃん [英訳] [DL版]`

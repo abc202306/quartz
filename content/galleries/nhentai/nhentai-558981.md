@@ -35,7 +35,6 @@ mtime: 2025-12-05T15:45:30+08:00
 group:
 parody:
 character:
-title: nhentai-558981
 ---
 
 # `[魔訶不思議] JS規格 [英訳]`

@@ -28,7 +28,6 @@ mtime: 2025-12-05T15:22:57+08:00
 group:
 parody:
 character:
-title: nhentai-516356
 ---
 
 # `[おとぎりふあ] 拐われて誘われて (コミック Mate legend Vol.54 2023年12月号) [中国翻訳] [DL版]`

@@ -39,7 +39,6 @@ mtime: 2025-12-05T17:01:33+08:00
 group:
 parody:
 character:
-title: nhentai-354194
 ---
 
 # `[アンソロジー] LQ -Little Queen- Vol.33 [DL版]`

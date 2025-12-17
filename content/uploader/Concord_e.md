@@ -1,7 +1,6 @@
 ---
 ctime: 2025-12-11T12:06:28+08:00
 mtime: 2025-12-17T22:32:17+08:00
-title: Concord_e
 ---
 
 # Concord_e

@@ -34,7 +34,6 @@ mtime: 2025-12-05T17:06:55+08:00
 group:
 parody:
 character:
-title: nhentai-275889
 ---
 
 # `[きのもと杏] 先生お願いします (COMIC LO 2018年10月号) [英訳] [DL版]`

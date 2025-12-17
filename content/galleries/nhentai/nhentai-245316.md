@@ -31,7 +31,6 @@ mtime: 2025-12-04T21:54:01+08:00
 group:
 parody:
 character:
-title: nhentai-245316
 ---
 
 # `[ふみー] せんせいのススメ (COMIC LO 2016年02月号) [英訳] [DL版]`

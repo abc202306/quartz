@@ -43,7 +43,6 @@ rating: 3.83
 uploaded: 2025-11-13T15:17:00Z
 ctime: 2025-12-05T19:21:07+08:00
 mtime: 2025-12-05T19:21:07+08:00
-title: exhentai-3635688-ae68b9da2a
 ---
 
 # `[Doa666] Emi {updated)`

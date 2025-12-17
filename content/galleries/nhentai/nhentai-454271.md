@@ -30,7 +30,6 @@ ctime: 2025-12-05T16:24:51+08:00
 mtime: 2025-12-05T16:24:51+08:00
 group:
 character:
-title: nhentai-454271
 ---
 
 # `[kanabun] こっち向いてせんせぇっ!! [進行中]`

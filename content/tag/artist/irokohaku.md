@@ -1,7 +1,6 @@
 ---
 ctime: 2025-12-17T16:13:00+08:00
 mtime: 2025-12-17T19:00:57+08:00
-title: irokohaku
 ---
 
 # irokohaku

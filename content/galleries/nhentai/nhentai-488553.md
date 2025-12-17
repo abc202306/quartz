@@ -28,7 +28,6 @@ mtime: 2025-12-05T15:40:29+08:00
 group:
 parody:
 character:
-title: nhentai-488553
 ---
 
 # `[上田裕] 二人のお留守番 (COMIC LO 2020年7月号) [中国翻訳] [DL版]`

@@ -34,7 +34,6 @@ cover: "[[nhentai-50887.jpg]]"
 uploaded: 2014-06-28T21:41:13.214364+00:00
 ctime: 2025-12-05T17:24:41+08:00
 mtime: 2025-12-05T17:24:41+08:00
-title: nhentai-50887
 ---
 
 # `(サンクリ36) [RAT TAIL (IRIE YAMAZAKI)] Lucky☆Star FILE (らき☆すた) [英訳]`

@@ -1,7 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:32+08:00
 mtime: 2025-12-17T16:58:47+08:00
-title: drill-hair
 ---
 
 # drill-hair

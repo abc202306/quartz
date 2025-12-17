@@ -29,7 +29,6 @@ mtime: 2025-12-05T16:58:11+08:00
 group:
 parody:
 character:
-title: nhentai-111202
 ---
 
 # `[無道叡智] オトメマジックオーケストラ [英訳] [無修正]`

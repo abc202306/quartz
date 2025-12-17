@@ -1,7 +1,6 @@
 ---
 ctime: 2025-12-13T17:00:39+08:00
 mtime: 2025-12-16T20:54:31+08:00
-title: etrian-odyssey-or-sekaiju-no-meikyuu
 ---
 
 # etrian-odyssey-or-sekaiju-no-meikyuu

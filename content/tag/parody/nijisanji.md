@@ -1,7 +1,6 @@
 ---
 ctime: 2025-12-13T17:00:39+08:00
 mtime: 2025-12-17T16:58:25+08:00
-title: nijisanji
 ---
 
 # nijisanji

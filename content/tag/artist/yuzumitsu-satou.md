@@ -1,7 +1,6 @@
 ---
 ctime: 2025-12-14T22:52:21+08:00
 mtime: 2025-12-16T20:55:06+08:00
-title: yuzumitsu-satou
 ---
 
 # yuzumitsu-satou

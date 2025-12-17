@@ -1,7 +1,6 @@
 ---
 ctime: 2025-12-17T16:12:05+08:00
 mtime: 2025-12-17T16:26:58+08:00
-title: momoroco-goya
 ---
 
 # momoroco-goya

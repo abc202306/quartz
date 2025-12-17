@@ -41,7 +41,6 @@ rating: 2
 uploaded: 2025-12-13T03:02:00Z
 ctime: 2025-12-14T22:36:40+08:00
 mtime: 2025-12-14T22:36:40+08:00
-title: exhentai-3682541-c70546babb
 ---
 
 # `[モチ] 桃香異聞録 (COMIC X-EROS #14) [final個人漢化]`

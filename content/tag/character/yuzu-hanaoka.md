@@ -1,7 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:35+08:00
 mtime: 2025-12-16T20:54:55+08:00
-title: yuzu-hanaoka
 ---
 
 # yuzu-hanaoka
