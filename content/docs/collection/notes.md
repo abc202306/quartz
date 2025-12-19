@@ -9,8 +9,6 @@ mtime: 2025-12-18T18:55:01+08:00
 
 > seealso: [[collection]], [[docs]]
 
-![[note-base.base]]
-
 ## [[property]]
 
 ### [[basic-property]]

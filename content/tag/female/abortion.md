@@ -7,8 +7,6 @@ mtime: 2025-12-19T14:11:35+08:00
 
 > seealso: [[female]]
 
-![[gallery-dynamic-base.base]]
-
 ## gallery-notes
 
 ### 2016

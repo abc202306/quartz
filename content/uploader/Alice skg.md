@@ -7,8 +7,6 @@ mtime: 2025-12-19T14:12:30+08:00
 
 > seealso: [[uploader]]
 
-![[gallery-dynamic-base.base]]
-
 ## gallery-notes
 
 ### 2024

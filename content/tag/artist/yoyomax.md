@@ -7,8 +7,6 @@ mtime: 2025-12-19T14:11:39+08:00
 
 > seealso: [[created-by-abc202306]], [[artist]]
 
-![[gallery-dynamic-base.base]]
-
 ## gallery-notes
 
 ### 2022

@@ -7,8 +7,6 @@ mtime: 2025-12-19T14:10:33+08:00
 
 > seealso: [[parody]]
 
-![[gallery-dynamic-base.base]]
-
 ## gallery-notes
 
 ### 2017

@@ -7,8 +7,6 @@ mtime: 2025-12-19T14:12:03+08:00
 
 > seealso: [[artist]]
 
-![[gallery-dynamic-base.base]]
-
 ## gallery-notes
 
 ### 2016

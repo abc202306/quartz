@@ -7,8 +7,6 @@ mtime: 2025-12-19T14:11:08+08:00
 
 > seealso: [[character]]
 
-![[gallery-dynamic-base.base]]
-
 ## gallery-notes
 
 ### 2025

@@ -6,5 +6,3 @@ mtime: 2025-12-17T21:52:03+08:00
 # property-cover
 
 > seealso: [[notes]], [[galleries]], [[basic-property]]
-
-![[property-dynamic-base.base]]
