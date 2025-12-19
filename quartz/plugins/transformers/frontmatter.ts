@@ -110,6 +110,7 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
               "lastmod",
               "updated",
               "last-modified",
+              "uploaded",
               "mtime"
             ])
             if (modified) data.modified = modified
