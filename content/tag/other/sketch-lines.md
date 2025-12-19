@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:32+08:00
-mtime: 2025-12-19T14:10:26+08:00
+mtime: 2025-12-19T20:40:01+08:00
 ---
 
 # sketch-lines
@@ -10,6 +10,8 @@ mtime: 2025-12-19T14:10:26+08:00
 ## gallery-notes
 
 ### 2025
+
+#### 2025-12
 
 1. `[Artist] ちぽかん (CHIPOKAN) 2024-` | [[exhentai-3684838-2e90dc5bc4]]
 	- ![[exhentai-3684838-2e90dc5bc4.webp|200]]
@@ -21,10 +23,15 @@ mtime: 2025-12-19T14:10:26+08:00
 	- ![[exhentai-3673145-c6598ef5a3.webp|200]]
 1. `[Artist] らす` | [[exhentai-3669548-135a05aec9]]
 	- ![[exhentai-3669548-135a05aec9.webp|200]]
+
+#### 2025-11
+
 1. `[Artist] らす` | [[exhentai-3649819-3ce65fba06]]
 	- ![[exhentai-3649819-3ce65fba06.webp|200]]
 
 ### 2024
+
+#### 2024-06
 
 1. `[FANBOX] あって七草` | [[exhentai-2948687-65764279fa]]
 	- ![[exhentai-2948687-65764279fa.webp|200]]
