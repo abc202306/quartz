@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-doujinshi|doujinshi]]"
 keywords:
@@ -20,7 +20,7 @@ keywords:
   - "[[exhentai-tag-impregnation|impregnation]]"
   - "[[exhentai-tag-big-penis|big-penis]]"
   - "[[exhentai-tag-anal-intercourse|anal-intercourse]]"
-  - "[[exhentai-tag-bbm|exhentai-tag-bbm]]"
+  - "[[exhentai-tag-bbm|bbm]]"
   - "[[exhentai-tag-bikini|bikini]]"
   - "[[exhentai-tag-pregnant|pregnant]]"
   - "[[exhentai-tag-exhibitionism|exhibitionism]]"

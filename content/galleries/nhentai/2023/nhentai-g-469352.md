@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-doujinshi|doujinshi]]"
 keywords:
@@ -13,7 +13,7 @@ keywords:
   - "[[exhentai-tag-dilf|dilf]]"
   - "[[exhentai-tag-collar|collar]]"
   - "[[exhentai-tag-bbm|bbm]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-bikini|bikini]]"
   - "[[exhentai-tag-mind-control|mind-control]]"
   - "[[exhentai-tag-exhibitionism|exhibitionism]]"

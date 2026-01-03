@@ -1,13 +1,13 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-doujinshi|doujinshi]]"
 keywords:
   - "[[exhentai-tag-sole-male|sole-male]]"
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-impregnation|impregnation]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-pregnant|pregnant]]"
   - "[[exhentai-tag-halo|halo]]"
 english: "[Poison Gray (Matsuriuta)] Kivotos Kozukuri Katsudou Houkokusho BluArch Kozukuri Houkokubu Ch. 3 | 奇普托斯繁衍生息活動報告書 蔚藍檔案繁衍生息報告部 第三報 (Blue Archive) [Chinese] [Jumppmuj個人漢化] [Digital]"

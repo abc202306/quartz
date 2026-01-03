@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-doujinshi|doujinshi]]"
 keywords:
@@ -9,7 +9,7 @@ keywords:
   - "[[exhentai-tag-twintails|twintails]]"
   - "[[exhentai-tag-swimsuit|swimsuit]]"
   - "[[exhentai-tag-dilf|dilf]]"
-  - "[[exhentai-tag-bbm|exhentai-tag-bbm]]"
+  - "[[exhentai-tag-bbm|bbm]]"
   - "[[exhentai-tag-gloves|gloves]]"
   - "[[exhentai-tag-filming|filming]]"
   - "[[exhentai-tag-leotard|leotard]]"

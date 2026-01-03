@@ -1,13 +1,13 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-artist-cg|artist-cg]]"
 female:
   - "[[exhentai-tag-catgirl|catgirl]]"
   - "[[exhentai-tag-gloves|gloves]]"
   - "[[exhentai-tag-halo|halo]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-sole-female|sole-female]]"
   - "[[exhentai-tag-twintails|twintails]]"

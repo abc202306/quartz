@@ -1,0 +1,15 @@
+filters:
+  and:
+    - up.containsAny(link("collection-gallery-notes", "collection-gallery-notes"))
+views:
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - gallery
+      - url
+    sort:
+      - property: ctime
+        direction: DESC
+    image: note.cover
+    cardSize: 100

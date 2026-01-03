@@ -1,13 +1,13 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-doujinshi|doujinshi]]"
 keywords:
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-stockings|stockings]]"
   - "[[exhentai-tag-collar|collar]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-hair-buns|hair-buns]]"
   - "[[exhentai-tag-tail-plug|tail-plug]]"
   - "[[exhentai-tag-vtuber|vtuber]]"

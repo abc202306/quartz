@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-doujinshi|doujinshi]]"
 keywords:
   - "[[exhentai-tag-lolicon|lolicon]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-tail|tail]]"
   - "[[exhentai-tag-kimono|kimono]]"
   - "[[exhentai-tag-fox-girl|fox-girl]]"

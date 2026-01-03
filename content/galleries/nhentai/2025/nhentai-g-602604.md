@@ -1,12 +1,12 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-manga|manga]]"
 keywords:
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-rape|rape]]"
-  - "[[exhentai-tag-bbm|exhentai-tag-bbm]]"
+  - "[[exhentai-tag-bbm|bbm]]"
   - "[[exhentai-tag-masked-face|masked-face]]"
   - "[[exhentai-tag-multipanel-sequence|multipanel-sequence]]"
 english: masked pig guy ~覆面ブタ野郎が突然現れて種付けしていく本~

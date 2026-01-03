@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-doujinshi|doujinshi]]"
 keywords:
@@ -12,7 +12,7 @@ keywords:
   - "[[exhentai-tag-blowjob|blowjob]]"
   - "[[exhentai-tag-ahegao|ahegao]]"
   - "[[exhentai-tag-twintails|twintails]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-sweating|sweating]]"
   - "[[exhentai-tag-fingering|fingering]]"
   - "[[exhentai-tag-cunnilingus|cunnilingus]]"

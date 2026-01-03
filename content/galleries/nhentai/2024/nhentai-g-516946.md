@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-doujinshi|doujinshi]]"
 keywords:
@@ -10,7 +10,7 @@ keywords:
   - "[[exhentai-tag-full-color|full-color]]"
   - "[[exhentai-tag-x-ray|x-ray]]"
   - "[[exhentai-tag-impregnation|impregnation]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-muscle|muscle]]"
   - "[[exhentai-tag-uncensored|uncensored]]"
   - "[[exhentai-tag-tail|tail]]"

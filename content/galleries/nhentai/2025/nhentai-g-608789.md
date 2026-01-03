@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-doujinshi|doujinshi]]"
 keywords:
@@ -10,7 +10,7 @@ keywords:
   - "[[exhentai-tag-nakadashi|nakadashi]]"
   - "[[exhentai-tag-swimsuit|swimsuit]]"
   - "[[exhentai-tag-ponytail|ponytail]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-pregnant|pregnant]]"
   - "[[exhentai-tag-stomach-deformation|stomach-deformation]]"
   - "[[exhentai-tag-halo|halo]]"

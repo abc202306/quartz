@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-doujinshi|doujinshi]]"
 keywords:
@@ -8,7 +8,7 @@ keywords:
   - "[[exhentai-tag-sole-male|sole-male]]"
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-shotacon|shotacon]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-tail|tail]]"
   - "[[exhentai-tag-bunny-girl|bunny-girl]]"
   - "[[exhentai-tag-eye-covering-bang|eye-covering-bang]]"

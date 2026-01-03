@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-manga|manga]]"
 keywords:
@@ -16,7 +16,7 @@ keywords:
   - "[[exhentai-tag-defloration|defloration]]"
   - "[[exhentai-tag-twintails|twintails]]"
   - "[[exhentai-tag-sister|sister]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-unusual-pupils|unusual-pupils]]"
   - "[[exhentai-tag-catgirl|catgirl]]"
   - "[[exhentai-tag-tanlines|tanlines]]"

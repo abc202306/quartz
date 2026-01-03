@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-doujinshi|doujinshi]]"
 keywords:
@@ -14,7 +14,7 @@ keywords:
   - "[[exhentai-tag-twintails|twintails]]"
   - "[[exhentai-tag-swimsuit|swimsuit]]"
   - "[[exhentai-tag-collar|collar]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-bikini|bikini]]"
   - "[[exhentai-tag-uncensored|uncensored]]"
   - "[[exhentai-tag-daughter|daughter]]"

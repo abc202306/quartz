@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-doujinshi|doujinshi]]"
 keywords:
@@ -9,7 +9,7 @@ keywords:
   - "[[exhentai-tag-stockings|stockings]]"
   - "[[exhentai-tag-full-color|full-color]]"
   - "[[exhentai-tag-ffm-threesome|ffm-threesome]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-halo|halo]]"
   - "[[exhentai-tag-chinese-dress|chinese-dress]]"
   - "[[exhentai-tag-shimaidon|shimaidon]]"

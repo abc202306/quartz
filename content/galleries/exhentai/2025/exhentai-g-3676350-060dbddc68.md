@@ -1,12 +1,12 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-artist-cg|artist-cg]]"
 female:
   - "[[exhentai-tag-collar|collar]]"
   - "[[exhentai-tag-gloves|gloves]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-leash|leash]]"
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-sole-female|sole-female]]"

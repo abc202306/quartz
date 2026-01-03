@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-manga|manga]]"
 keywords:
@@ -10,7 +10,7 @@ keywords:
   - "[[exhentai-tag-tankoubon|tankoubon]]"
   - "[[exhentai-tag-defloration|defloration]]"
   - "[[exhentai-tag-ffm-threesome|ffm-threesome]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-story-arc|story-arc]]"
   - "[[exhentai-tag-tail|tail]]"
   - "[[exhentai-tag-blindfold|blindfold]]"

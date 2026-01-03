@@ -1,13 +1,13 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-doujinshi|doujinshi]]"
 keywords:
   - "[[exhentai-tag-anal|anal]]"
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-nakadashi|nakadashi]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-fingering|fingering]]"
   - "[[exhentai-tag-tail|tail]]"
   - "[[exhentai-tag-rough-translation|rough-translation]]"
