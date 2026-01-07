@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:37+08:00
-mtime: 2026-01-03T21:57:10+08:00
+mtime: 2026-01-05T23:53:23+08:00
 ---
 
 # exhentai-tag-tio
 
 > seealso: [[exhentai-tg-character|exhentai-tg-character]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2022
 

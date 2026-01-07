@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:51+08:00
-mtime: 2026-01-03T21:56:09+08:00
+mtime: 2026-01-05T23:51:03+08:00
 ---
 
 # exhentai-tag-little-red-riding-hood
 
 > seealso: [[exhentai-tg-character|exhentai-tg-character]], [[exhentai-tg-parody|exhentai-tg-parody]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2024
 

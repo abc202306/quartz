@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:59+08:00
-mtime: 2026-01-03T21:56:22+08:00
+mtime: 2026-01-05T23:53:17+08:00
 ---
 
 # exhentai-tag-korean
 
 > seealso: [[exhentai-tg-language|exhentai-tg-language]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 

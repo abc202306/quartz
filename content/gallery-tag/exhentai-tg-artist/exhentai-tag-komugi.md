@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:07:06+08:00
-mtime: 2026-01-03T21:58:08+08:00
+mtime: 2026-01-06T17:47:38+08:00
 ---
 
 # exhentai-tag-komugi
 
-> seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
+> seealso: [[exhentai-tg-artist|exhentai-tg-artist]], [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 

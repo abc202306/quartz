@@ -1,13 +1,20 @@
 ---
 ctime: 2026-01-01T00:06:50+08:00
-mtime: 2026-01-03T21:57:34+08:00
+mtime: 2026-01-06T17:47:48+08:00
 ---
 
 # exhentai-tag-artist-cg
 
-> seealso: [[exhentai-tg-categories|exhentai-tg-categories]]
+> seealso: [[exhentai-tg-categories|exhentai-tg-categories]], [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
+
+### 2026
+
+#### 2026-01
+
+1. `[とらいあんぐる！ (よろず)] ギャルの惑星～ギャルに犯され、癒され、搾りとられる生ハメ天国～ [ページ欠落] [無字]` | [[exhentai-g-3724357-6fe1d4904a|exhentai-g-3724357-6fe1d4904a]] | 2026-01-06
+	- ![[exhentai-g-3724357-6fe1d4904a.webp|200]]
 
 ### 2025
 

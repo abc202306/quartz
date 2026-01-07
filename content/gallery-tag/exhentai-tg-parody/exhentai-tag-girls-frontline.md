@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:52+08:00
-mtime: 2026-01-03T21:56:10+08:00
+mtime: 2026-01-05T23:51:08+08:00
 ---
 
 # exhentai-tag-girls-frontline
 
 > seealso: [[exhentai-tg-parody|exhentai-tg-parody]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 

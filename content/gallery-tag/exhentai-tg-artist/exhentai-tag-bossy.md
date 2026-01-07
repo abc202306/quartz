@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:07:15+08:00
-mtime: 2026-01-03T21:58:21+08:00
+mtime: 2026-01-05T23:54:55+08:00
 ---
 
 # exhentai-tag-bossy
 
 > seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 

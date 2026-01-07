@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:58+08:00
-mtime: 2026-01-03T21:56:21+08:00
+mtime: 2026-01-05T23:51:16+08:00
 ---
 
 # exhentai-tag-sentou
 
 > seealso: [[exhentai-tg-location|exhentai-tg-location]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 

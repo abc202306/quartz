@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:49+08:00
-mtime: 2026-01-03T21:56:05+08:00
+mtime: 2026-01-05T23:50:49+08:00
 ---
 
 # exhentai-tag-toaru-majutsu-no-index
 
 > seealso: [[exhentai-tg-parody|exhentai-tg-parody]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2014
 

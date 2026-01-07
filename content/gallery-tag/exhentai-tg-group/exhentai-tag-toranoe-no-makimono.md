@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:03+08:00
-mtime: 2026-01-03T21:56:24+08:00
+mtime: 2026-01-05T23:51:34+08:00
 ---
 
 # exhentai-tag-toranoe-no-makimono
 
 > seealso: [[exhentai-tg-group|exhentai-tg-group]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2023
 

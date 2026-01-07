@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:07:05+08:00
-mtime: 2026-01-03T21:58:05+08:00
+mtime: 2026-01-05T23:54:31+08:00
 ---
 
 # exhentai-tag-maeshima-ryou
 
 > seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2024
 

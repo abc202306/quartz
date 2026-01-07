@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:43+08:00
-mtime: 2026-01-03T22:12:46+08:00
+mtime: 2026-01-05T23:53:43+08:00
 ---
 
 # exhentai-tag-kukuri
 
 > seealso: [[exhentai-tg-character|exhentai-tg-character]], [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 

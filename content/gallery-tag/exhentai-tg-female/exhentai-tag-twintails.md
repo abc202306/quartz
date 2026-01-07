@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:19+08:00
-mtime: 2026-01-03T21:56:45+08:00
+mtime: 2026-01-07T21:47:03+08:00
 ---
 
 # exhentai-tag-twintails
 
 > seealso: [[exhentai-tg-female|exhentai-tg-female]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 
@@ -260,6 +260,8 @@ mtime: 2026-01-03T21:56:45+08:00
 
 #### 2024-01
 
+1. `[こどもぎんこう (魔訶不思議)] ロリ・コンフライアンス001 [DL版]` | [[nhentai-g-489961|nhentai-g-489961]] | 2024-01-09
+	- ![[nhentai-g-489961.png|200]]
 1. `[岡田コウ] せんせいと、わたしと。 上 [中国翻訳] [無修正] [DL版]` | [[exhentai-g-2790750-36c31db764|exhentai-g-2790750-36c31db764]] | 2024-01-06
 	- ![[exhentai-g-2790750-36c31db764.webp|200]]
 

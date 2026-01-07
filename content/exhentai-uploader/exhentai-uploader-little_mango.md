@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:43+08:00
-mtime: 2026-01-03T22:55:20+08:00
+mtime: 2026-01-05T23:49:54+08:00
 ---
 
 # exhentai-uploader-little_mango
 
 > seealso: [[gallery-doc-exhentai-uploader|gallery-doc-exhentai-uploader]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2022
 

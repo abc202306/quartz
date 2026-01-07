@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:07:06+08:00
-mtime: 2026-01-03T21:58:08+08:00
+mtime: 2026-01-05T23:54:35+08:00
 ---
 
 # exhentai-tag-kumajiro
 
 > seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 

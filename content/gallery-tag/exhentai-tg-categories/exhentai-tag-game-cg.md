@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:50+08:00
-mtime: 2026-01-03T21:57:34+08:00
+mtime: 2026-01-06T17:47:48+08:00
 ---
 
 # exhentai-tag-game-cg
 
-> seealso: [[exhentai-tg-categories|exhentai-tg-categories]]
+> seealso: [[exhentai-tg-categories|exhentai-tg-categories]], [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 

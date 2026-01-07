@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:44+08:00
-mtime: 2026-01-03T22:55:22+08:00
+mtime: 2026-01-05T23:50:00+08:00
 ---
 
 # exhentai-uploader-Jules70
 
 > seealso: [[gallery-doc-exhentai-uploader|gallery-doc-exhentai-uploader]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 

@@ -1,13 +1,20 @@
 ---
 ctime: 2026-01-01T00:06:38+08:00
-mtime: 2026-01-03T21:57:13+08:00
+mtime: 2026-01-07T21:46:25+08:00
 ---
 
 # exhentai-tag-shana
 
 > seealso: [[exhentai-tg-character|exhentai-tg-character]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
+
+### 2026
+
+#### 2026-01
+
+1. `[俎上の空欄 (有魚)] 辱玩の媚び手 (灼眼のシャナ) [中国翻訳] [DL版]` | [[exhentai-g-3724681-1552195b42|exhentai-g-3724681-1552195b42]] | 2026-01-06
+	- ![[exhentai-g-3724681-1552195b42.webp|200]]
 
 ### 2025
 

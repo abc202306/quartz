@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:07:10+08:00
-mtime: 2026-01-03T21:58:14+08:00
+mtime: 2026-01-05T23:54:44+08:00
 ---
 
 # exhentai-tag-hiroki
 
 > seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2022
 

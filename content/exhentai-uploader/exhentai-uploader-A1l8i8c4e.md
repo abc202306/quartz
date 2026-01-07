@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:48+08:00
-mtime: 2026-01-03T22:55:29+08:00
+mtime: 2026-01-05T23:50:22+08:00
 ---
 
 # exhentai-uploader-A1l8i8c4e
 
 > seealso: [[gallery-doc-exhentai-uploader|gallery-doc-exhentai-uploader]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2024
 
