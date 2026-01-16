@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2026-01-07T21:45:47+08:00
+mtime: 2026-01-16T17:23:59+08:00
 ---
 
 # README
@@ -38,9 +38,9 @@ mtime: 2026-01-07T21:45:47+08:00
 
 | Folder Path | DFC | DFMC | DFOC |
 | :--- | ---: | ---: | ---: |
-| [[gallery-doc-exhentai-uploader\|exhentai-uploader]] | 169 | 169 | 0 |
-| [[gallery-doc-galleries\|galleries]] | 1412 | 706 | 706 |
-| [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]] | 598 | 299 | 299 |
+| [[gallery-doc-exhentai-uploader\|exhentai-uploader]] | 170 | 170 | 0 |
+| [[gallery-doc-galleries\|galleries]] | 1420 | 710 | 710 |
+| [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]] | 606 | 303 | 303 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2012\|2012]] | 2 | 1 | 1 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2014\|2014]] | 2 | 1 | 1 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2015\|2015]] | 4 | 2 | 2 |
@@ -54,7 +54,7 @@ mtime: 2026-01-07T21:45:47+08:00
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2023\|2023]] | 40 | 20 | 20 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2024\|2024]] | 100 | 50 | 50 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2025\|2025]] | 334 | 167 | 167 |
-| [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2026\|2026]] | 8 | 4 | 4 |
+| [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2026\|2026]] | 16 | 8 | 8 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]] | 814 | 407 | 407 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2014\|2014]] | 26 | 13 | 13 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2015\|2015]] | 18 | 9 | 9 |
@@ -66,10 +66,10 @@ mtime: 2026-01-07T21:45:47+08:00
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2021\|2021]] | 38 | 19 | 19 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2022\|2022]] | 58 | 29 | 29 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2023\|2023]] | 76 | 38 | 38 |
-| [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2024\|2024]] | 164 | 82 | 82 |
+| [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2024\|2024]] | 166 | 83 | 83 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2025\|2025]] | 274 | 137 | 137 |
-| [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2026\|2026]] | 2 | 1 | 1 |
-| [[gallery-doc\|gallery-doc]] | 62 | 57 | 5 |
+| [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2026\|2026]] | 0 | 0 | 0 |
+| [[gallery-doc\|gallery-doc]] | 63 | 57 | 6 |
 | [[gallery-doc-property\|gallery-doc-property]] | 33 | 33 | 0 |
 | [[gallery-doc-property\|gallery-doc-property]]/[[propertyns-gallery-basic\|propertyns-gallery-basic]] | 8 | 8 | 0 |
 | [[gallery-doc-property\|gallery-doc-property]]/[[propertyns-gallery-docs\|propertyns-gallery-docs]] | 1 | 1 | 0 |
@@ -78,7 +78,7 @@ mtime: 2026-01-07T21:45:47+08:00
 | [[gallery-doc-templates\|gallery-doc-templates]] | 3 | 3 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[collection\|collection]] | 2 | 2 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc\|gallery-doc]] | 13 | 13 | 0 |
-| [[gallery-doc\|gallery-doc]]/[[gallery-doc-base-file\|gallery-doc-base-file]] | 3 | 0 | 3 |
+| [[gallery-doc\|gallery-doc]]/[[gallery-doc-base-file\|gallery-doc-base-file]] | 4 | 0 | 4 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-canvas\|gallery-doc-canvas]] | 1 | 0 | 1 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-galleries\|gallery-doc-galleries]] | 2 | 2 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-gallery-tag\|gallery-doc-gallery-tag]] | 14 | 14 | 0 |
@@ -88,19 +88,19 @@ mtime: 2026-01-07T21:45:47+08:00
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-special-keywords\|gallery-doc-special-keywords]] | 7 | 7 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-year\|gallery-doc-year]] | 14 | 14 | 0 |
 | [[collection-gallery-notes\|gallery-notes]] | 9 | 6 | 3 |
-| [[gallery-doc-gallery-tag\|gallery-tag]] | 1619 | 1619 | 0 |
-| [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-artist\|exhentai-tg-artist]] | 539 | 539 | 0 |
+| [[gallery-doc-gallery-tag\|gallery-tag]] | 1626 | 1626 | 0 |
+| [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-artist\|exhentai-tg-artist]] | 542 | 542 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-categories\|exhentai-tg-categories]] | 10 | 10 | 0 |
-| [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-character\|exhentai-tg-character]] | 275 | 275 | 0 |
+| [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-character\|exhentai-tg-character]] | 276 | 276 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-cosplayer\|exhentai-tg-cosplayer]] | 1 | 1 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-female\|exhentai-tg-female]] | 252 | 252 | 0 |
-| [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-group\|exhentai-tg-group]] | 254 | 254 | 0 |
+| [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-group\|exhentai-tg-group]] | 256 | 256 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-language\|exhentai-tg-language]] | 9 | 9 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-location\|exhentai-tg-location]] | 4 | 4 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-male\|exhentai-tg-male]] | 54 | 54 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-mixed\|exhentai-tg-mixed]] | 7 | 7 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-other\|exhentai-tg-other]] | 33 | 33 | 0 |
-| [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-parody\|exhentai-tg-parody]] | 106 | 106 | 0 |
+| [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-parody\|exhentai-tg-parody]] | 107 | 107 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-temp\|exhentai-tg-temp]] | 1 | 1 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[nhentai-tg-keywords\|nhentai-tg-keywords]] | 74 | 74 | 0 |
 
@@ -225,65 +225,75 @@ git lfs pull
 
 ```js
 
-const config = {
-    path: {
-        folder: {
-            tag: "gallery-tag/", //type/rewrite
-            gallery: "galleries/", //type/rewrite
-            property: "gallery-doc-property/", //type/rewrite
-            uploader: "exhentai-uploader/", //type/rewrite
-            docsTag: "gallery-doc/gallery-doc-gallery-tag/", //type/rewrite
-            docsYear: "gallery-doc/gallery-doc-year/", //type/rewrite
-        },
-        file: {
-            readme: "README.md", //type/replace
-            tag: "gallery-doc/gallery-doc/gallery-doc-gallery-tag.md", //type/rewrite
-            uploader: "gallery-doc/gallery-doc/gallery-doc-exhentai-uploader.md", //type/rewrite
-            galleryNotes: "gallery-doc/collection/collection-gallery-notes.md", //type/replace
-            gallery: "gallery-doc/collection/collection-gallery-items.md", //type/replace
-            exhentai: "gallery-doc/gallery-doc-galleries/gallery-url-exhentai.md", //type/replace
-            nhentai: "gallery-doc/gallery-doc-galleries/gallery-url-nhentai.md", //type/replace
-        },
-    },
-    ref: {
-        docs: {
-            docs: "[[gallery-doc|gallery-doc]]",
-            tag: "[[gallery-doc-gallery-tag|gallery-doc-gallery-tag]]",
-            collection: "[[collection|collection]]",
-        },
-        base: {
-            galleryDynamicBase: "[[base-gallery-dynamic.base|base-gallery-dynamic.base]]",
-            propertyDynamicBase: "[[base-property-dynamic.base|base-property-dynamic.base]]",
-            galleryBase: "[[base-gallery.base|base-gallery.base]]",
-        },
-        galleryTagGroup: {
-            artist: "[[exhentai-tg-artist|artist]]",
-            categories: "[[exhentai-tg-categories|categories]]",
-            character: "[[exhentai-tg-character|character]]",
-            cosplayer: "[[exhentai-tg-cosplayer|cosplayer]]",
-            female: "[[exhentai-tg-female|female]]",
-            group: "[[exhentai-tg-group|group]]",
-            keywords: "[[nhentai-tg-keywords|keywords]]",
-            language: "[[exhentai-tg-language|language]]",
-            location: "[[exhentai-tg-location|location]]",
-            male: "[[exhentai-tg-male|male]]",
-            mixed: "[[exhentai-tg-mixed|mixed]]",
-            other: "[[exhentai-tg-other|other]]",
-            parody: "[[exhentai-tg-parody|parody]]",
-            temp: "[[exhentai-tg-temp|temp]]"
-        },
-        collection: {
-            gallery: "[[collection-gallery-items|collection-gallery-items]]",
-            galleryNotes: "[[collection-gallery-notes|collection-gallery-notes]]",
-        },
-    },
-    keywords: {
-        exhentai: "exhentai",
-        nhentai: "nhentai",
-        galleryItems: "[[gallery-items|gallery-items]]",
-        noteList: "note-list",
-    },
-    propertyNames: [
+class FolderConfig { // all folder type is type/rewrite
+	tag = "gallery-tag/";
+	gallery = "galleries/";
+	property = "gallery-doc-property/";
+	uploader = "exhentai-uploader/";
+	docsTag = "gallery-doc/gallery-doc-gallery-tag/";
+	docsYear = "gallery-doc/gallery-doc-year/";
+
+	static _typeDict = {
+		rewrite: ["tag", "gallery", "property", "uploader", "docsTag", "docsYear"]
+	}
+}
+
+class FileConfig {
+	readme = "README.md"; //type/replace
+	tag = "gallery-doc/gallery-doc/gallery-doc-gallery-tag.md"; //type/rewrite
+	uploader = "gallery-doc/gallery-doc/gallery-doc-exhentai-uploader.md"; //type/rewrite
+	galleryNotes = "gallery-doc/collection/collection-gallery-notes.md"; //type/replace
+	gallery = "gallery-doc/collection/collection-gallery-items.md"; //type/replace
+	exhentai = "gallery-doc/gallery-doc-galleries/gallery-url-exhentai.md"; //type/replace
+	nhentai = "gallery-doc/gallery-doc-galleries/gallery-url-nhentai.md"; //type/replace
+	
+	static _typeDict = {
+		replace: ["readme", "galleryNotes", "gallery", "exhentai", "nhentai"],
+		rewrite: ["tag", "uploader"]
+	}
+}
+
+class RefConfig {
+	// docs
+	docsMeta = "[[gallery-doc|gallery-doc]]";
+	docsTag = "[[gallery-doc-gallery-tag|gallery-doc-gallery-tag]]";
+	docsCollection = "[[collection|collection]]";
+
+	// base
+	baseGalleryDynamic = "[[base-gallery-dynamic.base|base-gallery-dynamic.base]]";
+	basePropertyDynamic = "[[base-property-dynamic.base|base-property-dynamic.base]]";
+	baseGallery = "[[base-gallery.base|base-gallery.base]]";
+	
+	// galleryTagGrouop
+	galleryTagGroupArtist = "[[exhentai-tg-artist|artist]]";
+	galleryTagGroupCategories = "[[exhentai-tg-categories|categories]]";
+	galleryTagGroupCharacter = "[[exhentai-tg-character|character]]";
+	galleryTagGroupCosplayer = "[[exhentai-tg-cosplayer|cosplayer]]";
+	galleryTagGroupFemale = "[[exhentai-tg-female|female]]";
+	galleryTagGroupGroup = "[[exhentai-tg-group|group]]";
+	galleryTagGroupKeywords = "[[nhentai-tg-keywords|keywords]]";
+	galleryTagGroupLanguage = "[[exhentai-tg-language|language]]";
+	galleryTagGroupLocation = "[[exhentai-tg-location|location]]";
+	galleryTagGroupMale = "[[exhentai-tg-male|male]]";
+	galleryTagGroupMixed = "[[exhentai-tg-mixed|mixed]]";
+	galleryTagGroupOther = "[[exhentai-tg-other|other]]";
+	galleryTagGroupParody = "[[exhentai-tg-parody|parody]]";
+	galleryTagGroupTemp = "[[exhentai-tg-temp|temp]]";
+
+	// collection
+	collectionGallery = "[[collection-gallery-items|collection-gallery-items]]";
+	collectionGalleryNotes = "[[collection-gallery-notes|collection-gallery-notes]]";
+}
+
+class KeywordsConfig {
+	exhentai = "exhentai";
+	nhentai = "nhentai";
+	galleryItems = "[[gallery-items|gallery-items]]";
+	noteList = "note-list";
+}
+
+class PropertyConfig {
+	propertyNames = [
         "artist",
         "group",
         "categories",
@@ -300,7 +310,17 @@ const config = {
         "keywords",
         "uploader",
     ]
-};
+}
+
+class Config {
+	pathFolder = new FolderConfig();
+	pathFile = new FileConfig();
+    ref = new RefConfig();
+    keywords = new KeywordsConfig();
+	property = new PropertyConfig();
+}
+
+const config = new Config();
 
 class DateUtil {
     static _singleInstance = new DateUtil();
@@ -381,8 +401,7 @@ class PathUtil {
         const linktext2 = app.metadataCache.fileToLinktext(f2);
         const fc2 = app.metadataCache.getFileCache(f2) || {};
 
-        const dateUploaded = fc2.frontmatter?.uploaded?.substring(0, 10);
-        const postDescription = dateUploaded ? ` | ${dateUploaded}` : "";
+        const postDescription = "";
 
         const display2 = fc2.frontmatter?.japanese || fc2.frontmatter?.english || linktext2;
         const link2 =
@@ -416,20 +435,29 @@ class PathUtil {
 
     getGStrASGroupedList(galleryNotePaths) {
         const gls = [...galleryNotePaths].sort(pathUtil.compareGalleryPathWithPropertyUploaded);
-        const grouped = arrayUtil.groupBy(gls, (gnPath) => stringUtil.getYear(app.vault.getAbstractFileByPath(gnPath)));
-        const parts = grouped
+        const groupedByYear = arrayUtil.groupBy(gls, (gnPath) => stringUtil.getYear(app.vault.getAbstractFileByPath(gnPath)));
+        const parts = groupedByYear
             .sort((a, b) => b[0].localeCompare(a[0]))
-            .flatMap(([key, group]) => {
-                const grouped02 = arrayUtil.groupBy(group, (gnPath) => stringUtil.getMonth(app.vault.getAbstractFileByPath(gnPath)));
-                const parts02 = grouped02
+            .flatMap(([yearKey, yearGroup]) => {
+                const groupedByMonth = arrayUtil.groupBy(yearGroup, (gnPath) => stringUtil.getMonth(app.vault.getAbstractFileByPath(gnPath)));
+                const yearSectionContentParts = groupedByMonth
                     .sort((a, b) => b[0].localeCompare(a[0]))
-                    .flatMap(([key02, group02]) => [
-                        `#### ${key02}`,
-                        group02.map(pathUtil.getGalleryPathRepresentationStr).join("\n")
-                    ]);
+                    .flatMap(([monthKey, monthGroup]) => {
+						const groupedByDay = arrayUtil.groupBy(monthGroup, (gnPath) => stringUtil.getDay(app.vault.getAbstractFileByPath(gnPath)));
+						const daySectionContentParts = groupedByDay
+							.sort((a, b) => b[0].localeCompare(a[0]))
+							.flatMap(([dayKey, dayGroup]) => [
+								`##### ${dayKey}`,
+								dayGroup.map(pathUtil.getGalleryPathRepresentationStr).join("\n")
+							]);
+						return [
+	                        `#### ${monthKey}`,
+	                        ...daySectionContentParts
+	                    ]					
+					});
                 return [
-                    `### ${key}`,
-                    ...parts02
+                    `### ${yearKey}`,
+                    ...yearSectionContentParts
                 ];
             });
         return parts.join("\n\n");
@@ -447,26 +475,26 @@ class FileTemplateUtil {
         return FileTemplateUtil._singleInstance;
     }
 
-    getTagFileContent(title, ctime, mtime) {
+    getTagFileContent(title, ctime, mtime, _seealso) {
         const f = app.metadataCache.getFirstLinkpathDest(title);
         const backlinks = app.metadataCache.getBacklinksForFile(f)?.data;
         const paths = backlinks ? [...backlinks.keys()] : [];
 
         const ngstr = pathUtil.getNGStr(
-            paths.filter((i) => !i.startsWith(config.path.folder.gallery)).filter((i) => i !== config.path.file.readme)
+            paths.filter((i) => !i.startsWith(config.pathFolder.gallery)).filter((i) => i !== config.pathFile.readme)
         );
-        const gstr = pathUtil.getGStr(paths.filter((i) => i.startsWith(config.path.folder.gallery)));
+        const gstr = pathUtil.getGStr(paths.filter((i) => i.startsWith(config.pathFolder.gallery)));
 
-        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n!${config.ref.base.galleryDynamicBase}\n\n## ${config.keywords.galleryItems}\n\n${gstr}\n`;
+        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n!${config.ref.baseGalleryDynamic}\n\n## ${config.keywords.galleryItems}\n\n${gstr}\n`;
     }
 
-    getYearFileContent(title, ctime, mtime) {
+    getYearFileContent(title, ctime, mtime, _seealso) {
         const f = app.metadataCache.getFirstLinkpathDest(title);
         const backlinks = app.metadataCache.getBacklinksForFile(f)?.data;
         const paths = backlinks ? [...backlinks.keys()] : [];
 
         const ngstr = pathUtil.getNGStr(
-            paths.filter((i) => !i.startsWith(config.path.folder.gallery)).filter((i) => i !== config.path.file.readme)
+            paths.filter((i) => !i.startsWith(config.pathFolder.gallery)).filter((i) => i !== config.pathFile.readme)
         );
 
         const year = title.replace(/^gallery-year-/, "");
@@ -474,7 +502,7 @@ class FileTemplateUtil {
         const galleryNotePaths = app
             .vault
             .getMarkdownFiles()
-            .filter((f) => f.path.startsWith(config.path.folder.gallery))
+            .filter((f) => f.path.startsWith(config.pathFolder.gallery))
             .filter((f) => stringUtil.getYear(f) === year)
             .map((f) => f.path);
         const gstr = pathUtil.getGStr(galleryNotePaths);
@@ -482,57 +510,71 @@ class FileTemplateUtil {
         return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n## ${config.keywords.galleryItems}\n\n${gstr}\n`;
     }
 
-    getTagGroupMOC(title) {
-        const property = title.replace(/^(gallery-doc-)?((ex|n)hentai-)?(tg-)?/, "");
-        const galleryMDFileCaches = app
-            .vault
-            .getMarkdownFiles()
-            .filter((f) => f.path.startsWith(config.path.folder.gallery))
-            .map((f) => app.metadataCache.getFileCache(f) || {});
-
-        const allValues = galleryMDFileCaches.flatMap((fc) => arrayUtil.safeArray((fc.frontmatter || {})[property]));
-        const uniqueValues = arrayUtil.uniqueArray(allValues).filter((v) => v);
-
-        return uniqueValues
-            .sort((a, b) => stringUtil.toFileName(a).localeCompare(stringUtil.toFileName(b)))
-            .map((v) =>
-                `1. ${v} | ${galleryMDFileCaches.filter((fc) => arrayUtil.safeArray((fc.frontmatter || {})[property]).includes(v)).length}`
-            )
-            .join("\n");
-    }
-
     getGroupFileContent(title, ctime, mtime, seealso) {
-        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${seealso}\n\n${fileTemplateUtil.getTagGroupMOC(title)}\n`;
+        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${seealso}\n\n${fileTemplateUtil._getTagGroupMOC(title)}\n`;
     }
 
-    getTagMetaFileContent(_title, ctime, mtime) {
-        const { docs } = config.ref.docs;
-        const { artist, categories, character, cosplayer, female, group, keywords, language, location, male, mixed, other, parody, temp } = config.ref.galleryTagGroup;
-        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# tag\n\n> seealso: ${docs}\n\n1. ${artist} | ${stringUtil.getTagCount(artist)}\n1. ${categories} | ${stringUtil.getTagCount(categories)}\n1. ${character} | ${stringUtil.getTagCount(character)}\n1. ${cosplayer} | ${stringUtil.getTagCount(cosplayer)}\n1. ${female} | ${stringUtil.getTagCount(female)}\n1. ${group} | ${stringUtil.getTagCount(group)}\n1. ${keywords} | ${stringUtil.getTagCount(keywords)}\n1. ${language} | ${stringUtil.getTagCount(language)}\n1. ${location} | ${stringUtil.getTagCount(location)}\n1. ${male} | ${stringUtil.getTagCount(male)}\n1. ${mixed} | ${stringUtil.getTagCount(mixed)}\n1. ${other} | ${stringUtil.getTagCount(other)}\n1. ${parody} | ${stringUtil.getTagCount(parody)}\n1. ${temp} | ${stringUtil.getTagCount(temp)}\n`;
+    getTagMetaFileContent(_title, ctime, mtime, _seealso) {
+        const { 
+			docs, 
+			galleryTagGroupArtist, 
+			galleryTagGroupCategories, 
+			galleryTagGroupCharacter, 
+			galleryTagGroupCosplayer, 
+			galleryTagGroupFemale, 
+			galleryTagGroupGroup, 
+			galleryTagGroupKeywords, 
+			galleryTagGroupLanguage, 
+			galleryTagGroupLocation, 
+			galleryTagGroupMale, 
+			galleryTagGroupMixed, 
+			galleryTagGroupOther, 
+			galleryTagGroupParody, 
+			galleryTagGroupTemp 
+		} = config.ref;
+
+		const ol = [
+			galleryTagGroupArtist, 
+			galleryTagGroupCategories, 
+			galleryTagGroupCharacter, 
+			galleryTagGroupCosplayer, 
+			galleryTagGroupFemale, 
+			galleryTagGroupGroup, 
+			galleryTagGroupKeywords, 
+			galleryTagGroupLanguage, 
+			galleryTagGroupLocation, 
+			galleryTagGroupMale, 
+			galleryTagGroupMixed, 
+			galleryTagGroupOther, 
+			galleryTagGroupParody,
+			galleryTagGroupTemp 
+		].map((value)=>`1. ${value} | ${stringUtil.getTagCount(value)}\n`).join("");
+		
+        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# tag\n\n> seealso: ${docs}\n\n${ol}`;
     }
 
-    getTagGroupFileContent(title, ctime, mtime) {
-        return fileTemplateUtil.getGroupFileContent(title, ctime, mtime, config.ref.docs.tag);
+    getTagGroupFileContent(title, ctime, mtime, _seealso) {
+        return fileTemplateUtil.getGroupFileContent(title, ctime, mtime, config.ref.docsTag);
     }
 
-    getUploaderGroupFileContent(title, ctime, mtime) {
-        return fileTemplateUtil.getGroupFileContent(title, ctime, mtime, config.ref.docs.docs);
+    getUploaderGroupFileContent(title, ctime, mtime, _seealso) {
+        return fileTemplateUtil.getGroupFileContent(title, ctime, mtime, config.ref.docsMeta);
     }
 
-    getPropertyFileContent(title, ctime, mtime) {
+    getPropertyFileContent(title, ctime, mtime, _seealso) {
         const f = app.metadataCache.getFirstLinkpathDest(title);
         const backlinks = app.metadataCache.getBacklinksForFile(f)?.data;
         const paths = backlinks ? [...backlinks.keys()] : [];
 
         const ngstr = pathUtil.getNGStr(
-            paths.filter((i) => !i.startsWith(config.path.folder.gallery)).filter((i) => i !== config.path.file.readme)
+            paths.filter((i) => !i.startsWith(config.pathFolder.gallery)).filter((i) => i !== config.pathFile.readme)
         );
 
-        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n!${config.ref.base.propertyDynamicBase}\n`;
+        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n!${config.ref.basePropertyDynamic}\n`;
     }
 
-    async getReadmeFileContent(_title, ctime, mtime) {
-        const file = app.vault.getAbstractFileByPath(config.path.file.readme);
+    async getReadmeFileContent(_title, ctime, mtime, _seealso) {
+        const file = app.vault.getAbstractFileByPath(config.pathFile.readme);
         const fileContent = await app.vault.read(file);
 
         const files = app.vault.getFiles();
@@ -550,12 +592,12 @@ class FileTemplateUtil {
         return newData;
     }
 
-    async getNoteMetaFileContent(_title, ctime, mtime) {
-        const metaFilePath = config.path.file.galleryNotes;
+    async getNoteMetaFileContent(_title, ctime, mtime, _seealso) {
+        const metaFilePath = config.pathFile.galleryNotes;
         const noteFiles = app
             .vault
             .getMarkdownFiles()
-            .filter((f) => arrayUtil.safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collection.galleryNotes));
+            .filter((f) => arrayUtil.safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collectionGalleryNotes));
 
         const file = app.vault.getAbstractFileByPath(metaFilePath);
         const fileContent = await app.vault.read(file);
@@ -572,7 +614,7 @@ class FileTemplateUtil {
 
         const gstr = gls.map(pathUtil.getGalleryPathRepresentationStr).join("\n");
 
-        const preFMBlock = `\nup:\n  - "${config.ref.docs.collection}"`;
+        const preFMBlock = `\nup:\n  - "${config.ref.docsCollection}"`;
         const newData = stringUtil.replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(new RegExp(`(?<=\n)## ${RegExp.escape(config.keywords.noteList)}\n[^]*`),
             `## ${config.keywords.noteList}\n\n${gstr}\n`
         );
@@ -580,7 +622,56 @@ class FileTemplateUtil {
         return newData;
     }
 
-    async getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles, preFMBlock = "") {
+    async getSpecGalleryMetaFileContent(_title, ctime, mtime, _seealso) {
+        const metaFilePath = config.pathFile.gallery;
+        const galleryNoteFiles = app
+            .vault
+            .getMarkdownFiles()
+            .filter((f) => arrayUtil.safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collectionGallery));
+        const preFMBlock = `\nup:\n  - "${config.ref.docsCollection}"\nbases:\n  - "${config.ref.baseGallery}"`;
+        return await fileTemplateUtil._getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles, preFMBlock);
+    }
+
+    async getSpecEXHentaiGalleryMetaFileContent(_title, ctime, mtime, _seealso) {
+        const metaFilePath = config.pathFile.exhentai;
+        const galleryNoteFiles = app
+            .vault
+            .getMarkdownFiles()
+            .filter((f) => arrayUtil.safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collectionGallery))
+            .filter((f) => (app.metadataCache.getFileCache(f)?.frontmatter?.url || "").includes(config.keywords.exhentai));
+        return await fileTemplateUtil._getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles);
+    }
+
+    async getSpecNHentaiGalleryMetaFileContent(_title, ctime, mtime, _seealso) {
+        const metaFilePath = config.pathFile.nhentai;
+        const galleryNoteFiles = app
+            .vault
+            .getMarkdownFiles()
+            .filter((f) => arrayUtil.safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collectionGallery))
+            .filter((f) => (app.metadataCache.getFileCache(f)?.frontmatter?.url || "").includes(config.keywords.nhentai));
+        return await fileTemplateUtil._getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles);
+    }
+
+    _getTagGroupMOC(title) {
+        const property = title.replace(/^(gallery-doc-)?((ex|n)hentai-)?(tg-)?/, "");
+        const galleryMDFileCaches = app
+            .vault
+            .getMarkdownFiles()
+            .filter((f) => f.path.startsWith(config.pathFolder.gallery))
+            .map((f) => app.metadataCache.getFileCache(f) || {});
+
+        const allValues = galleryMDFileCaches.flatMap((fc) => arrayUtil.safeArray((fc.frontmatter || {})[property]));
+        const uniqueValues = arrayUtil.uniqueArray(allValues).filter((v) => v);
+
+        return uniqueValues
+            .sort((a, b) => stringUtil.toFileName(a).localeCompare(stringUtil.toFileName(b)))
+            .map((v) =>
+                `1. ${v} | ${galleryMDFileCaches.filter((fc) => arrayUtil.safeArray((fc.frontmatter || {})[property]).includes(v)).length}`
+            )
+            .join("\n");
+    }
+
+    async _getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles, preFMBlock = "") {
         const file = app.vault.getAbstractFileByPath(metaFilePath);
         const fileContent = await app.vault.read(file);
 
@@ -591,36 +682,6 @@ class FileTemplateUtil {
         );
 
         return newData;
-    }
-
-    async getSpecGalleryMetaFileContent(_title, ctime, mtime) {
-        const metaFilePath = config.path.file.gallery;
-        const galleryNoteFiles = app
-            .vault
-            .getMarkdownFiles()
-            .filter((f) => arrayUtil.safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collection.gallery));
-        const preFMBlock = `\nup:\n  - "${config.ref.docs.collection}"\nbases:\n  - "${config.ref.base.galleryBase}"`;
-        return await fileTemplateUtil.getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles, preFMBlock);
-    }
-
-    async getSpecEXHentaiGalleryMetaFileContent(_title, ctime, mtime) {
-        const metaFilePath = config.path.file.exhentai;
-        const galleryNoteFiles = app
-            .vault
-            .getMarkdownFiles()
-            .filter((f) => arrayUtil.safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collection.gallery))
-            .filter((f) => (app.metadataCache.getFileCache(f)?.frontmatter?.url || "").includes(config.keywords.exhentai));
-        return await fileTemplateUtil.getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles);
-    }
-
-    async getSpecNHentaiGalleryMetaFileContent(_title, ctime, mtime) {
-        const metaFilePath = config.path.file.nhentai;
-        const galleryNoteFiles = app
-            .vault
-            .getMarkdownFiles()
-            .filter((f) => arrayUtil.safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collection.gallery))
-            .filter((f) => (app.metadataCache.getFileCache(f)?.frontmatter?.url || "").includes(config.keywords.nhentai));
-        return await fileTemplateUtil.getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles);
     }
 }
 
@@ -643,7 +704,7 @@ class StringUtil {
         const galleryMDFileCaches = app
             .vault
             .getMarkdownFiles()
-            .filter((f) => f.path.startsWith(config.path.folder.gallery))
+            .filter((f) => f.path.startsWith(config.pathFolder.gallery))
             .map((f) => app.metadataCache.getFileCache(f) || {});
 
         return arrayUtil.uniqueArray(galleryMDFileCaches.flatMap((fc) => arrayUtil.safeArray((fc.frontmatter || {})[property]))).filter((v) => v)
@@ -680,6 +741,10 @@ class StringUtil {
 
     getMonth(galleryNoteFile) {
         return app.metadataCache.getFileCache(galleryNoteFile)?.frontmatter?.uploaded?.slice(0, 7) || "1000-01";
+    }
+
+    getDay(galleryNoteFile) {
+        return app.metadataCache.getFileCache(galleryNoteFile)?.frontmatter?.uploaded?.slice(0, 10) || "1000-01-01";
     }
 }
 
@@ -736,7 +801,7 @@ class FileProcesserUtil {
     }
 
     createFilesFromUnresolvedLinksForAllGalleryNoteFiles() {
-        const galleryNoteMDFiles = app.vault.getMarkdownFiles().filter((f) => f.path.startsWith(config.path.folder.gallery));
+        const galleryNoteMDFiles = app.vault.getMarkdownFiles().filter((f) => f.path.startsWith(config.pathFolder.gallery));
         const unresolvedLinktexts = galleryNoteMDFiles.flatMap((f) => Object.keys(app.metadataCache.unresolvedLinks?.[f.path] || {}));
 
         console.log("unresolvedLinktexts", unresolvedLinktexts);
@@ -744,11 +809,11 @@ class FileProcesserUtil {
         const galleryMDFileCaches = galleryNoteMDFiles.map((f) => app.metadataCache.getFileCache(f) || {});
         for (const linktext of arrayUtil.uniqueArray(unresolvedLinktexts)) {
             const value = `[[${linktext}|${linktext}]]`;
-            const propertyName = config.propertyNames.find((pn) =>
+            const propertyName = config.property.propertyNames.find((pn) =>
                 galleryMDFileCaches.filter((fc) => arrayUtil.safeArray((fc.frontmatter || {})[pn]).includes(value)).length !== 0
             );
 
-            let folderPath = config.path.folder.tag;
+            let folderPath = config.pathFolder.tag;
 
             const destPath = folderPath + linktext + ".md";
             try {
@@ -773,7 +838,7 @@ class FileProcesserUtil {
     batchMoveGalleryNoteFilesByYearUploaded() {
         const files = app.vault.getFiles();
         const mdfiles = app.vault.getMarkdownFiles();
-        const candidates = mdfiles.filter((f) => f.path.startsWith(config.path.folder.gallery));
+        const candidates = mdfiles.filter((f) => f.path.startsWith(config.pathFolder.gallery));
 
         for (const f of candidates) {
             if (f.path.split("/").length !== 3) continue;
@@ -797,7 +862,7 @@ class FileProcesserUtil {
     }
 
     standardizeGalleryNoteCoverFileName() {
-        const galleryNoteFiles = app.vault.getMarkdownFiles().filter(f => f.path.startsWith(config.path.folder.gallery));
+        const galleryNoteFiles = app.vault.getMarkdownFiles().filter(f => f.path.startsWith(config.pathFolder.gallery));
         galleryNoteFiles.filter(f => {
             const cover = app.metadataCache.getFileCache(f)?.frontmatter?.cover;
             const res = /^\[\[(.*?\|)?(?<basename>.*)\.(?<extension>.*)\]\]$/.exec(cover);
@@ -877,13 +942,13 @@ class Main {
     static pushTasksWithSingleFileSpec(tasks) {
         // single-file generators
         const singleFileSpecs = [
-            [config.path.file.readme, fileTemplateUtil.getReadmeFileContent],
-            [config.path.file.uploader, fileTemplateUtil.getUploaderGroupFileContent],
-            [config.path.file.tag, fileTemplateUtil.getTagMetaFileContent],
-            [config.path.file.galleryNotes, fileTemplateUtil.getNoteMetaFileContent],
-            [config.path.file.gallery, fileTemplateUtil.getSpecGalleryMetaFileContent],
-            [config.path.file.exhentai, fileTemplateUtil.getSpecEXHentaiGalleryMetaFileContent],
-            [config.path.file.nhentai, fileTemplateUtil.getSpecNHentaiGalleryMetaFileContent],
+            [config.pathFile.readme, fileTemplateUtil.getReadmeFileContent],
+            [config.pathFile.uploader, fileTemplateUtil.getUploaderGroupFileContent],
+            [config.pathFile.tag, fileTemplateUtil.getTagMetaFileContent],
+            [config.pathFile.galleryNotes, fileTemplateUtil.getNoteMetaFileContent],
+            [config.pathFile.gallery, fileTemplateUtil.getSpecGalleryMetaFileContent],
+            [config.pathFile.exhentai, fileTemplateUtil.getSpecEXHentaiGalleryMetaFileContent],
+            [config.pathFile.nhentai, fileTemplateUtil.getSpecNHentaiGalleryMetaFileContent],
         ];
 
         for (const [path, fn] of singleFileSpecs) {
@@ -894,11 +959,11 @@ class Main {
     static pushTasksWithDirectorySpec(tasks) {
         // directory-scoped generators
         const dirSpecs = [
-            [config.path.folder.docsTag, fileTemplateUtil.getTagGroupFileContent],
-            [config.path.folder.docsYear, fileTemplateUtil.getYearFileContent],
-            [config.path.folder.property, fileTemplateUtil.getPropertyFileContent],
-            [config.path.folder.uploader, fileTemplateUtil.getTagFileContent],
-            [config.path.folder.tag, fileTemplateUtil.getTagFileContent],
+            [config.pathFolder.docsTag, fileTemplateUtil.getTagGroupFileContent],
+            [config.pathFolder.docsYear, fileTemplateUtil.getYearFileContent],
+            [config.pathFolder.property, fileTemplateUtil.getPropertyFileContent],
+            [config.pathFolder.uploader, fileTemplateUtil.getTagFileContent],
+            [config.pathFolder.tag, fileTemplateUtil.getTagFileContent],
         ];
 
         for (const [rootDirPath, fn] of dirSpecs) {
