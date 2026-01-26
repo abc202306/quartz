@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:35+08:00
-mtime: 2026-01-16T17:53:33+08:00
+mtime: 2026-01-24T23:56:24+08:00
 ---
 
 # exhentai-tag-ahegao
@@ -8,6 +8,15 @@ mtime: 2026-01-16T17:53:33+08:00
 > seealso: [[exhentai-tg-female|exhentai-tg-female]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
 
 ## [[gallery-items|gallery-items]]
+
+### 2026
+
+#### 2026-01
+
+##### 2026-01-23
+
+1. `[23.4ド (イチリ)] 堕天計画 総集編 [中国翻訳] [無修正] [DL版]` | [[exhentai-g-3752564-d7e93cfeae|exhentai-g-3752564-d7e93cfeae]]
+	- ![[exhentai-g-3752564-d7e93cfeae.webp|200]]
 
 ### 2025
 
@@ -89,6 +98,13 @@ mtime: 2026-01-16T17:53:33+08:00
 
 1. `[Tempest (よろず)] ブルアカU149孕ませ合同 ～Ura Petit Archive～ (ブルーアーカイブ) [DL版]` | [[exhentai-g-3498577-3f1e518251|exhentai-g-3498577-3f1e518251]]
 	- ![[exhentai-g-3498577-3f1e518251.webp|200]]
+
+#### 2025-07
+
+##### 2025-07-15
+
+1. `The Holy Loli Grail - Greatest Loli's Of All Time [95% Uncensored Collection]` | [[exhentai-g-3441601-5be78deced|exhentai-g-3441601-5be78deced]]
+	- ![[exhentai-g-3441601-5be78deced.webp|200]]
 
 #### 2025-06
 

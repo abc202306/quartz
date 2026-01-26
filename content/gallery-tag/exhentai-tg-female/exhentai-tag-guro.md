@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-01T00:06:29+08:00
-mtime: 2026-01-16T17:53:13+08:00
+mtime: 2026-01-25T01:30:28+08:00
 ---
 
 # exhentai-tag-guro
 
-> seealso: [[exhentai-tg-female|exhentai-tg-female]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
+> seealso: [[exhentai-tg-female|exhentai-tg-female]], [[exhentai-tg-male|exhentai-tg-male]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
 
 ## [[gallery-items|gallery-items]]
 
@@ -24,6 +24,13 @@ mtime: 2026-01-16T17:53:13+08:00
 
 1. `夢獄の国のアリス ～無垢な乙女とリョナの部屋～` | [[exhentai-g-3638938-79bd6d6ea9|exhentai-g-3638938-79bd6d6ea9]]
 	- ![[exhentai-g-3638938-79bd6d6ea9.webp|200]]
+
+#### 2025-10
+
+##### 2025-10-31
+
+1. `[原崎] やよいちゃんの受難 (アイドルマスター)` | [[exhentai-g-3613475-dc8b798f72|exhentai-g-3613475-dc8b798f72]]
+	- ![[exhentai-g-3613475-dc8b798f72.webp|200]]
 
 #### 2025-06
 

@@ -1,0 +1,19 @@
+---
+ctime: 2026-01-25T01:15:58+08:00
+mtime: 2026-01-25T01:15:58+08:00
+---
+
+# exhentai-tag-yayoi-takatsuki
+
+> seealso: [[exhentai-tg-character|exhentai-tg-character]]
+
+## [[gallery-items|gallery-items]]
+
+### 2025
+
+#### 2025-10
+
+##### 2025-10-31
+
+1. `[原崎] やよいちゃんの受難 (アイドルマスター)` | [[exhentai-g-3613475-dc8b798f72|exhentai-g-3613475-dc8b798f72]]
+	- ![[exhentai-g-3613475-dc8b798f72.webp|200]]

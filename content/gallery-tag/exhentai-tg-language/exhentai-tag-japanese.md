@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:59+08:00
-mtime: 2026-01-16T17:53:34+08:00
+mtime: 2026-01-25T01:15:28+08:00
 ---
 
 # exhentai-tag-japanese
@@ -8,6 +8,22 @@ mtime: 2026-01-16T17:53:34+08:00
 > seealso: [[exhentai-tg-language|exhentai-tg-language]]
 
 ## [[gallery-items|gallery-items]]
+
+### 2026
+
+#### 2026-01
+
+##### 2026-01-21
+
+1. `[FANBOX] Shino (2025)` | [[exhentai-g-3749460-a040d73876|exhentai-g-3749460-a040d73876]]
+	- ![[exhentai-g-3749460-a040d73876.webp|200]]
+
+##### 2026-01-20
+
+1. `[心街] パジャマウラの恩返し` | [[exhentai-g-3748192-d35c8af674|exhentai-g-3748192-d35c8af674]]
+	- ![[exhentai-g-3748192-d35c8af674.webp|200]]
+1. `[Pixiv + Twitter] まぼかに (113912362)` | [[exhentai-g-3747985-d54cc85dae|exhentai-g-3747985-d54cc85dae]]
+	- ![[exhentai-g-3747985-d54cc85dae.webp|200]]
 
 ### 2025
 
@@ -256,6 +272,8 @@ mtime: 2026-01-16T17:53:34+08:00
 
 ##### 2025-10-31
 
+1. `[原崎] やよいちゃんの受難 (アイドルマスター)` | [[exhentai-g-3613475-dc8b798f72|exhentai-g-3613475-dc8b798f72]]
+	- ![[exhentai-g-3613475-dc8b798f72.webp|200]]
 1. `[FANBOX] ぽるせりん | Poruserin (10/31/2025)` | [[exhentai-g-3611933-e12fb2b3f5|exhentai-g-3611933-e12fb2b3f5]]
 	- ![[exhentai-g-3611933-e12fb2b3f5.webp|200]]
 
@@ -740,6 +758,8 @@ mtime: 2026-01-16T17:53:34+08:00
 
 1. `[とらのえのまきもの (トラノエ)] らぁらのごめんね (プリパラ) [DL版]` | [[exhentai-g-2783545-be490c6872|exhentai-g-2783545-be490c6872]]
 	- ![[exhentai-g-2783545-be490c6872.webp|200]]
+1. `PIXIV プシュケーLo(942719) 2023作品合集` | [[exhentai-g-2783114-7bac1c2cfe|exhentai-g-2783114-7bac1c2cfe]]
+	- ![[exhentai-g-2783114-7bac1c2cfe.webp|200]]
 1. `[ダル・ゾデサデハーイ (ダル)] モモイがたくさん泣かされる本 (ブルーアーカイブ) [DL版]` | [[nhentai-g-488409|nhentai-g-488409]]
 	- ![[nhentai-g-488409.png|200]]
 

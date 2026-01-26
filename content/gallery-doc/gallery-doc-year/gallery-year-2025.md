@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-16T17:49:20+08:00
+mtime: 2026-01-25T01:14:51+08:00
 ---
 
 # gallery-year-2025
@@ -431,6 +431,8 @@ mtime: 2026-01-16T17:49:20+08:00
 
 ##### 2025-10-31
 
+1. `[原崎] やよいちゃんの受難 (アイドルマスター)` | [[exhentai-g-3613475-dc8b798f72|exhentai-g-3613475-dc8b798f72]]
+	- ![[exhentai-g-3613475-dc8b798f72.webp|200]]
 1. `[FANBOX] ぽるせりん | Poruserin (10/31/2025)` | [[exhentai-g-3611933-e12fb2b3f5|exhentai-g-3611933-e12fb2b3f5]]
 	- ![[exhentai-g-3611933-e12fb2b3f5.webp|200]]
 
@@ -586,6 +588,11 @@ mtime: 2026-01-16T17:49:20+08:00
 1. `(C105) [ふつうのタピオカやさん (ふたつのピーナツ)] ●才からの体操教室 (オリジナル)︱●岁学生的体操课教室(chinese)[李四个人汉化] [DL版]` | [[nhentai-g-585109|nhentai-g-585109]]
 	- ![[nhentai-g-585109.webp|200]]
 
+##### 2025-07-15
+
+1. `The Holy Loli Grail - Greatest Loli's Of All Time [95% Uncensored Collection]` | [[exhentai-g-3441601-5be78deced|exhentai-g-3441601-5be78deced]]
+	- ![[exhentai-g-3441601-5be78deced.webp|200]]
+
 ##### 2025-07-08
 
 1. `[砂漠] 真夜中の夜子さん [中国翻訳] [無修正] [DL版]` | [[exhentai-g-3433419-0fd273c1ea|exhentai-g-3433419-0fd273c1ea]]
@@ -604,6 +611,11 @@ mtime: 2026-01-16T17:49:20+08:00
 
 1. `[Dr.VERMILION (ペテン師)] きりマスまぐわいコッショリ勝負録 (VOICEROID) [中国翻訳] [DL版]` | [[nhentai-g-581649|nhentai-g-581649]]
 	- ![[nhentai-g-581649.webp|200]]
+
+##### 2025-06-28
+
+1. `[ゆうじ、こうじ] FANBOX 真纪小漫画合集 (ブルーアーカイブ) [中国翻訳]` | [[exhentai-g-3418067-1d04d8db0c|exhentai-g-3418067-1d04d8db0c]]
+	- ![[exhentai-g-3418067-1d04d8db0c.webp|200]]
 
 ##### 2025-06-23
 
@@ -882,6 +894,13 @@ mtime: 2026-01-16T17:49:20+08:00
 
 1. `[しぷおる] ずっと一緒にいてね [中国翻訳] [無修正] [DL版]` | [[nhentai-g-566404|nhentai-g-566404]]
 	- ![[nhentai-g-566404.webp|200]]
+
+#### 2025-03
+
+##### 2025-03-23
+
+1. `[蛞月姬] 伊吹也想吃布丁 (ブルーアーカイブ) [中国語]` | [[exhentai-g-3285355-cace2ba0e3|exhentai-g-3285355-cace2ba0e3]]
+	- ![[exhentai-g-3285355-cace2ba0e3.webp|200]]
 
 #### 2025-02
 

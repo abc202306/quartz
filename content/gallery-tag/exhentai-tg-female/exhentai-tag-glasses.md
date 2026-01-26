@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:29+08:00
-mtime: 2026-01-16T17:53:15+08:00
+mtime: 2026-01-22T11:33:06+08:00
 ---
 
 # exhentai-tag-glasses
@@ -8,6 +8,15 @@ mtime: 2026-01-16T17:53:15+08:00
 > seealso: [[exhentai-tg-female|exhentai-tg-female]], [[exhentai-tg-male|exhentai-tg-male]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
 
 ## [[gallery-items|gallery-items]]
+
+### 2026
+
+#### 2026-01
+
+##### 2026-01-20
+
+1. `[心街] パジャマウラの恩返し` | [[exhentai-g-3748192-d35c8af674|exhentai-g-3748192-d35c8af674]]
+	- ![[exhentai-g-3748192-d35c8af674.webp|200]]
 
 ### 2025
 
@@ -72,6 +81,11 @@ mtime: 2026-01-16T17:53:15+08:00
 	- ![[exhentai-g-3433419-0fd273c1ea.webp|200]]
 
 #### 2025-06
+
+##### 2025-06-28
+
+1. `[ゆうじ、こうじ] FANBOX 真纪小漫画合集 (ブルーアーカイブ) [中国翻訳]` | [[exhentai-g-3418067-1d04d8db0c|exhentai-g-3418067-1d04d8db0c]]
+	- ![[exhentai-g-3418067-1d04d8db0c.webp|200]]
 
 ##### 2025-06-14
 

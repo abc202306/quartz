@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:29+08:00
-mtime: 2026-01-16T17:53:13+08:00
+mtime: 2026-01-22T11:33:05+08:00
 ---
 
 # exhentai-tag-hair-buns
@@ -8,6 +8,15 @@ mtime: 2026-01-16T17:53:13+08:00
 > seealso: [[exhentai-tg-female|exhentai-tg-female]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
 
 ## [[gallery-items|gallery-items]]
+
+### 2026
+
+#### 2026-01
+
+##### 2026-01-20
+
+1. `[Pixiv + Twitter] まぼかに (113912362)` | [[exhentai-g-3747985-d54cc85dae|exhentai-g-3747985-d54cc85dae]]
+	- ![[exhentai-g-3747985-d54cc85dae.webp|200]]
 
 ### 2025
 
@@ -65,6 +74,11 @@ mtime: 2026-01-16T17:53:13+08:00
 	- ![[exhentai-g-3498577-3f1e518251.webp|200]]
 
 #### 2025-06
+
+##### 2025-06-28
+
+1. `[ゆうじ、こうじ] FANBOX 真纪小漫画合集 (ブルーアーカイブ) [中国翻訳]` | [[exhentai-g-3418067-1d04d8db0c|exhentai-g-3418067-1d04d8db0c]]
+	- ![[exhentai-g-3418067-1d04d8db0c.webp|200]]
 
 ##### 2025-06-14
 

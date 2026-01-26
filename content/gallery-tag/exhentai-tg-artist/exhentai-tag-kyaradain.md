@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:07:06+08:00
-mtime: 2026-01-16T17:55:40+08:00
+mtime: 2026-01-18T18:30:18+08:00
 ---
 
 # exhentai-tag-kyaradain
@@ -8,6 +8,15 @@ mtime: 2026-01-16T17:55:40+08:00
 > seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
 
 ## [[gallery-items|gallery-items]]
+
+### 2026
+
+#### 2026-01
+
+##### 2026-01-16
+
+1. `[きゃらだいん] 田舎の子供は初体験が早いらしい (COMIC LO 2023年2月号) [中国翻訳] [无敌大泰个人汉化&無修loli重嵌] [DL版] [无修正] [27P]` | [[nhentai-g-623552|nhentai-g-623552]]
+	- ![[nhentai-g-623552.webp|200]]
 
 ### 2025
 

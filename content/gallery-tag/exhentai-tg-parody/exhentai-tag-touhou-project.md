@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:48+08:00
-mtime: 2026-01-16T17:50:22+08:00
+mtime: 2026-01-26T14:46:45+08:00
 ---
 
 # exhentai-tag-touhou-project
@@ -8,6 +8,20 @@ mtime: 2026-01-16T17:50:22+08:00
 > seealso: [[exhentai-tg-parody|exhentai-tg-parody]], [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]]
 
 ## [[gallery-items|gallery-items]]
+
+### 2026
+
+#### 2026-01
+
+##### 2026-01-24
+
+1. `脑内彼女东方project汉化作品集` | [[exhentai-g-3754072-6a8cb5d800|exhentai-g-3754072-6a8cb5d800]]
+	- ![[exhentai-g-3754072-6a8cb5d800.webp|200]]
+
+##### 2026-01-22
+
+1. `[こまねすと (クックロビン)] ご安心をっ! レミリアさまっ! (東方Project) [中国翻訳] [DL版]` | [[exhentai-g-3750988-7647616203|exhentai-g-3750988-7647616203]]
+	- ![[exhentai-g-3750988-7647616203.webp|200]]
 
 ### 2025
 
